@@ -1,5 +1,5 @@
 void main(){
-    int no;
-    String name="jj";
-    print(name);
+   late int a;
+   a=12;
+   
 }

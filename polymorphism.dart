@@ -1,22 +1,23 @@
-// =========================== 
-// EG:1
-//=========================
-// class Car{
-//   String name="mg";
-//   String type="petrol";
-//   void display(){
-//     print(name);
-//     print(type);
-//   }
-// }
-// class Ecar extends Car{
-//   @override
-//   String type="battery";
-  
-// }
-// void main(){
-//   Ecar d=Ecar();
-//   d.display();
-//   Car d2=Car();
-//   d2.display();
-// }
+class Bus{
+  String color="red";
+
+  String type="deisel";
+  void display(){
+    print("color of the bus is $color");
+    print("the type of the bus is $type");
+  }
+
+
+}
+class Car extends Bus{
+  void display(){
+    String type ="petrol";
+    print("the color of the car is $color");
+    print("the type of the car is $type");
+  }
+
+}
+void main(){
+Bus d=Bus();
+d.display();
+}
