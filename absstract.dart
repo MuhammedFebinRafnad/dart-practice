@@ -13,7 +13,7 @@ class Car extends Vehicle{
 }
 class Bike extends Vehicle{
   void start(){
-    print("bike sart");
+    print("bike start");
   }
   void stop(){
     print("bike stop");

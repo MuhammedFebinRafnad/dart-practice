@@ -1,22 +1,36 @@
-class Person{
-  String name="abc";
-  int age=11;
-   void diplay(){
-    print(name);
-    print(age);
+import 'absstract.dart';
+
+class Vehicle{
+  String? name;
+  String?color;
+  void display(){
+   
   }
 }
-class Child implements Person{
-  String name="a";
-  int age=1;
-  
-  void diplay(){
+class Car implements Vehicle{
+  String?  name;
+  String? color;
+  void display() {
     print(name);
-    print(age);
+    print(color);
+  }
+
+}
+class Bike implements Vehicle{
+   String?  name;
+  String? color;
+  void display() {
+      print(name);
+    print(color);
   }
 }
 void main(){
-  Child d=Child();
-  d.diplay();
-  
+ Car d=Car();
+ d.name="toyota";
+ d.color='black';
+ d.display();
+ Bike d2=Bike();
+ d2.name="pulsar";
+ d2.color="red";
+ d2.display();
 }
