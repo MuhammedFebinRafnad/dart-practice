@@ -7,14 +7,14 @@ void main(){
 }
 class A{
  void display(){
- print("this is class a");
+ print("This is class a");
  
  }
 }
 class B extends A{
  void display(){
   super.display();
-  print("this is b class");
+  print("This is b class");
   print("uytyt");
   super.display();
  }

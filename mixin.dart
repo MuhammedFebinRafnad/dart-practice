@@ -1,16 +1,16 @@
 mixin ElectricCar{
   void electric(){
-    print("this is electric car");
+    print("This is electric car");
   }
 }
 mixin PetrolCar{
   void petrol(){
-    print("this is petrol car");
+    print("This is petrol car");
   }
 }
 class Cars with ElectricCar,PetrolCar{
   void cars(){
-    print("this are two cars available");
+    print("This are two cars available");
   }
 }
 void main(){
