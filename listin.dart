@@ -25,9 +25,9 @@
 //   List<String>name=["jhon","ben","jacob"];
 //   name.forEach((elementsoflist)=>print(elementsoflist));
 // }
-//  void main(){
-//    List<String>name=["jhon","ben","jacob"];
-//    for(String list in name){
-//     print(list);
-//    }
-//  }
+ void main(){
+   List<String>name=["jhon","ben","jacob","jack"];
+   for(String list in name){
+    print(list);
+   }
+ }
