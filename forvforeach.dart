@@ -11,12 +11,12 @@
 //====================================================
 //by using forEach
 
-// void main(){
-//   List<String>names=["jhon","ben","jack"];
-//   names.forEach((name){print(name);});
-// }
-//forEAch with arrow function
 void main(){
- List<int>nums=[1,2,3,4,5,6,7];
- nums.forEach((numb)=>print(numb));
+  List<String>names=["jhon","ben","jack"];
+  names.forEach((name){print(name);});
 }
+//forEAch with arrow function
+// void main(){
+//  List<int>nums=[1,2,3,4,5,6,7,8,9,10];
+//  nums.forEach((numb)=>print(numb));
+// }
