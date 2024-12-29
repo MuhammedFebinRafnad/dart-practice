@@ -17,7 +17,6 @@ class Bike{
   void display(){
     print("the name of the bike is $name,the id is $id");
   }
-
 }
 void main(){
   Bike d=Bike()
