@@ -21,6 +21,5 @@ class Bike{
 void main(){
   Bike d=Bike()
   ..name="pulsar"..id=88..display();
-  
 
 }
