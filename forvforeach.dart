@@ -12,7 +12,7 @@
 //by using forEach
 
 void main(){
-  List<String>names=["jhon","ben","jack"];
+  List<String>names=["jhon","ben"];
   names.forEach((name){print(name);});
 }
 //forEAch with arrow function
