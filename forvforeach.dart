@@ -3,7 +3,7 @@
 //  by using forloop
 ///===================================================
 // void main(){
-//   List<String>name1=["jhon","ben","jack"];
+//   List<String>name1=["jhon","ben"];
 //   for(int i=0;i<name1.length;i++){
 //     print(name1[i]);
 //   }
