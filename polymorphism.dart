@@ -3,8 +3,8 @@
 
 //   String type="deisel";
 //   void display(){
-//     print("color of the bus is $color");
-//     print("the type of the bus is $type");
+//     print("Color of the bus is $color");
+//     print("The type of the bus is $type");
 //   }
 
 
