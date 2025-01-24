@@ -26,7 +26,7 @@ class Bike implements Vehicle{
 }
 void main(){
  Car d=Car();
- d.name="toyota";
+ d.name="land rover";
  d.color='black';
  d.display();
  Bike d2=Bike();
