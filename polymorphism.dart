@@ -11,7 +11,7 @@
 // }
 // class Car extends Bus{
 //   void display(){
-//     String type ="petrol";
+//     String type ="Petrol";
 //     print("the color of the car is $color");
 //     print("the type of the car is $type");
 //   }
