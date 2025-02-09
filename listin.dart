@@ -8,7 +8,7 @@
 //   print('Sum: $sum');
 // }
 // void main(){
-//   List<int>numb=[1,2,3,4,6,7,8,9,10];
+//   List<int>numb=[1,2,3,4,6,7,8,9,];
 //   int sum=0;
 //   numb.forEach((Iteratornum)=>sum=sum+Iteratornum);
 //   print("sum of the list is $sum");
