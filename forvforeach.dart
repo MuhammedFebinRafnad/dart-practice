@@ -17,6 +17,6 @@ void main(){
 }
 //forEAch with arrow function
 // void main(){
-//  List<int>nums=[1,2,3,4,5,6,7,8];
+//  List<int>nums=[1,2,3,4,5,6,7];
 //  nums.forEach((numb)=>print(numb));
 // }
