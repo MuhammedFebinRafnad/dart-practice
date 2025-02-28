@@ -1,5 +1,5 @@
 // void main() {
-//   List<int> numbers = [1, 2, 3, 4, 5];
+//   List<int> numbers = [1, 2, 3];
 //   int sum = 0;
 
 //   // Using an arrow function for concise syntax
