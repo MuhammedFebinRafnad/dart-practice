@@ -22,7 +22,7 @@
 // }     
 
 // void main(){
-//   List<String>name=["jhon","ben","jacob"];
+//   List<String>name=["jhon","ben"];
 //   name.forEach((elementsoflist)=>print(elementsoflist));
 // }
  void main(){
